@@ -1,0 +1,158 @@
+.nav__list{
+    list-style: none;
+
+    display: flex;
+}
+.nav__item{
+    margin-right: 20px;
+}
+.conteiner{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.conteiner__header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.hero-block{
+    background-color: blue;
+}
+.conteiner__hero-block{
+    display: flex;
+}
+.hero-block__img{
+    margin-right: 20px;
+}
+.hero-block__title{
+    color: rgb(228, 228, 228);
+font-family: Arimo;
+font-size: 72px;
+font-weight: 400;
+line-height: 83px;
+letter-spacing: 0%;
+text-align: left;
+}
+.hero-block__text{
+    color: rgb(228, 228, 228);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+}
+.hero-block__btn{
+    background: linear-gradient(135.00deg, rgb(226, 163, 0),rgb(226, 149, 0) 100%);
+padding: 15px;
+}
+.about__full{
+    width: 400px;
+    height: 10px;
+    background-color: bisque;
+}
+.about__done{
+    width: 50%;
+    height: 100%;
+    background-color: brown;
+}
+
+.about__full_7{
+    width: 400px;
+    height: 10px;
+    background-color: bisque;
+}
+.about__done_7{
+    width: 25%;
+    
+    height: 100%;
+    background-color: brown;
+}
+.about__full_8{
+    width: 400px;
+    height: 10px;
+    background-color: bisque;
+}
+.about__done_8{
+    width: 55%;
+    
+    height: 100%;
+    background-color: brown;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.about__list{
+    list-style: none;
+}
+.about{
+    background-color: lightblue;
+}
+.video_title{
+    text-align: center;
+}
+.gallery{
+    background: rgb(14, 24, 23);
+}
+.gallery__title{
+    color: rgb(241, 200, 95);
+    font-family: Holy Union;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.gallery__list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallery__item{
+    width: 400px;
+}
+.gallery__img{
+    width: 100%;
+}
+.footer{
+    background: rgb(1, 46, 41);
+}
+.conteiner_footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__title{
+    color: rgb(228, 228, 228);
+font-family: Holy Union;
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer__text{
+    color: rgb(255, 255, 255);
+font-family: Holy Union;
+font-size: 16px;
+font-weight: 400;
+line-height: 164.06%;
+letter-spacing: 0%;
+text-align: left;
+}
+.footer__list{
+    display: flex;
+    list-style: none;
+
+}
+.footer__item{
+    margin-right: 40px;
+}
+
+
+
+
+
